@@ -1,2 +1,4 @@
 # todo-app
-This is the todo app with a database stored in the backend.
+This was a simple todo app, with operations to create, read, update, and delete (CRUD) todo elements. The todos are stored locally on the user's device using a .json file. This project helped me get more aquaintened with database operations, as well as taking the time to carefully understand API interations.
+
+To run my app, one will need to first clone this repository in GitHub Desktop. From there, the frontend folder to_do_app may be opened using Visual Studio Code. Similarly, the backend folder todo_app may be opened using Visual Studio Code. Then, firstly, the backend code may be ran by typing "python main.py" in the terminal available for the backend folder. This will employ the user's local device as the server that the backend code may be ran on. Then, in the frontend code terminal, make sure that you navigate to the to_do_app folder, and type "flutter run" to run the frontend code. At this point, you may follow any additional terminal instructions, and the app will be running on your local machine.
